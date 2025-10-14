@@ -23,6 +23,7 @@
 @@||yahoo.com^$important
 @@||ioi.dk^$important
 @@||hitman.io^$important
+@@||moogbets.com^$important
 #subdomain unblock
 @@||ovmx.mv3817046.site^$important
 @@||vdnm.mv3817046.site^$important
