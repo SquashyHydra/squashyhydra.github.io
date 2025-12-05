@@ -1,5 +1,6 @@
 #global
 #domain unblock
+@@||mega.io^$important
 @@||torproject.org^$important
 @@||mv3817046.site^$important
 @@||activision.com^$important
@@ -40,5 +41,6 @@
 @@||cdn-cl-res.tlauncher.org^$important
 @@||rescl.tlauncher.org^$important^$important
 @@||mps.tlauncher.org^$important
+@@||s3.g.s4.mega.io^$important
 # Bypass ad-blocker blocker
 @@||pagead2.googlesyndication.com^$important
